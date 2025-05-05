@@ -1,0 +1,9 @@
+{
+    "reviews": {},
+    "inventory": {
+        "Tomato": {
+            "price": 123.0,
+            "category": "Groceries"
+        }
+    }
+}

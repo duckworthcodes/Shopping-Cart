@@ -1,0 +1,391 @@
+{
+    "thickthickdaddy": {
+        "password": "$2b$12$o4MzQ2ALJBXdmDOvo6AqweilVU.ooQLKRxUeZ3P.IXAx2jjADqA7G",
+        "email": "vaibhavnetflix7890@gmail.com",
+        "created_at": "2025-02-16T14:58:09.504446",
+        "achievements": {},
+        "points": 0,
+        "budget_streak": 0,
+        "order_history": [],
+        "address": "Address not provided"
+    },
+    "Vaibhav": {
+        "password": "$2b$12$C7mRjIVAkxSFJ8vA0myUauJxFDaCEJT2QsfQ5VGRRqisnlbrNUAGK",
+        "email": "tyleristop3easy@gmail.com",
+        "phone_number": "+91 7087542051",
+        "created_at": "2025-02-18T06:49:58.812137",
+        "achievements": {},
+        "points": 0,
+        "budget_streak": 1,
+        "order_history": [
+            {
+                "date": "2025-02-18T06:54:54.927394",
+                "items": [
+                    {
+                        "item": "Tomato",
+                        "price": 120.0,
+                        "quantity": 1,
+                        "category": "Other"
+                    },
+                    {
+                        "item": "Fish",
+                        "price": 600.0,
+                        "quantity": 1,
+                        "category": "Other"
+                    },
+                    {
+                        "item": "Oninon",
+                        "price": 340.0,
+                        "quantity": 1,
+                        "category": "Other"
+                    }
+                ],
+                "total": 1001.7,
+                "currency": "\u20b9"
+            },
+            {
+                "date": "2025-02-19T10:45:55.413900",
+                "items": [
+                    {
+                        "item": "Vaibhav",
+                        "price": 123.0,
+                        "quantity": 1,
+                        "category": "Other"
+                    }
+                ],
+                "total": 129.15,
+                "currency": "\u20b9"
+            },
+            {
+                "date": "2025-02-19T10:52:47.450356",
+                "items": [
+                    {
+                        "item": "Tomato",
+                        "price": 100.0,
+                        "quantity": 1,
+                        "category": "Other"
+                    }
+                ],
+                "total": 105.0,
+                "currency": "\u20b9"
+            },
+            {
+                "date": "2025-02-19T11:00:20.468617",
+                "items": [
+                    {
+                        "item": "Tomato",
+                        "price": 100.0,
+                        "quantity": 1,
+                        "category": "Other"
+                    }
+                ],
+                "total": 105.0,
+                "currency": "\u20b9"
+            },
+            {
+                "date": "2025-02-19T11:04:00.748774",
+                "items": [
+                    {
+                        "item": "Tomato",
+                        "price": 100.0,
+                        "quantity": 1,
+                        "category": "Other"
+                    }
+                ],
+                "total": 105.0,
+                "currency": "\u20b9"
+            },
+            {
+                "date": "2025-02-19T11:15:34.823910",
+                "items": [
+                    {
+                        "item": "Tomato",
+                        "price": 56.0,
+                        "quantity": 1,
+                        "category": "Other"
+                    }
+                ],
+                "total": 58.8,
+                "currency": "\u20b9"
+            },
+            {
+                "date": "2025-02-19T11:26:05.506264",
+                "items": [
+                    {
+                        "item": "kgjkbihb",
+                        "price": 12345.0,
+                        "quantity": 1,
+                        "category": "Other"
+                    }
+                ],
+                "total": 11666.025,
+                "currency": "\u20b9"
+            },
+            {
+                "date": "2025-02-19T11:29:50.299972",
+                "items": [
+                    {
+                        "item": "56\\",
+                        "price": 56.0,
+                        "quantity": 1,
+                        "category": "Other"
+                    }
+                ],
+                "total": 58.8,
+                "currency": "\u20b9"
+            },
+            {
+                "date": "2025-02-20T07:29:57.358827",
+                "items": [
+                    {
+                        "item": "Tomato",
+                        "price": 122.0,
+                        "quantity": 1,
+                        "category": "Other"
+                    }
+                ],
+                "total": 128.1,
+                "currency": "\u20b9"
+            },
+            {
+                "date": "2025-02-21T18:30:40.474180",
+                "items": [
+                    {
+                        "item": "Tomato",
+                        "price": 123.0,
+                        "category": "Groceries",
+                        "quantity": 1
+                    }
+                ],
+                "total": 129.15,
+                "currency": "\u20b9"
+            },
+            {
+                "date": "2025-02-22T10:10:55.349167",
+                "items": [
+                    {
+                        "item": "Cucumber",
+                        "price": 234.0,
+                        "priority": 1,
+                        "quantity": 1,
+                        "category": "Other"
+                    },
+                    {
+                        "item": "Oil",
+                        "price": 340.0,
+                        "priority": 3,
+                        "quantity": 1,
+                        "category": "Other"
+                    },
+                    {
+                        "item": "Milk",
+                        "price": 104.0,
+                        "priority": 4,
+                        "quantity": 1,
+                        "category": "Other"
+                    },
+                    {
+                        "item": "Sesame Seeds",
+                        "price": 120.0,
+                        "priority": 5,
+                        "quantity": 1,
+                        "category": "Other"
+                    },
+                    {
+                        "item": "Water Bottle",
+                        "price": 90.0,
+                        "priority": 1,
+                        "quantity": 1,
+                        "category": "Other"
+                    }
+                ],
+                "total": 932.4,
+                "currency": "\u20b9"
+            },
+            {
+                "date": "2025-02-22T10:20:07.020361",
+                "items": [
+                    {
+                        "item": "Pen",
+                        "price": 120.0,
+                        "quantity": 2,
+                        "value_score": 40.0,
+                        "category": "Other"
+                    },
+                    {
+                        "item": "Mousepad",
+                        "price": 300.0,
+                        "quantity": 1,
+                        "value_score": 37.5,
+                        "category": "Other"
+                    },
+                    {
+                        "item": "Cheese",
+                        "price": 70.0,
+                        "quantity": 2,
+                        "value_score": 11.666666666666666,
+                        "category": "Other"
+                    }
+                ],
+                "total": 714.0,
+                "currency": "\u20b9"
+            },
+            {
+                "date": "2025-02-22T10:33:20.659263",
+                "items": [
+                    {
+                        "item": "Cucumber",
+                        "price": 123.0,
+                        "quantity": 1,
+                        "category": "Other"
+                    },
+                    {
+                        "item": "Tomato",
+                        "price": 800.0,
+                        "quantity": 1,
+                        "category": "Other"
+                    }
+                ],
+                "total": 969.15,
+                "currency": "\u20b9"
+            },
+            {
+                "date": "2025-02-22T14:43:42.799563",
+                "items": [
+                    {
+                        "item": "Towel",
+                        "price": 300.0,
+                        "quantity": 1,
+                        "category": "Household"
+                    },
+                    {
+                        "item": "Perfume",
+                        "price": 600.0,
+                        "quantity": 1,
+                        "category": "Other"
+                    }
+                ],
+                "total": 945.0,
+                "currency": "\u20b9"
+            },
+            {
+                "date": "2025-02-22T14:53:02.994598",
+                "items": [
+                    {
+                        "item": "Cucumber",
+                        "price": 100.0,
+                        "quantity": 2,
+                        "category": "Food"
+                    },
+                    {
+                        "item": "Doll",
+                        "price": 123.0,
+                        "quantity": 2,
+                        "category": "Other"
+                    }
+                ],
+                "total": 468.3,
+                "currency": "\u20b9"
+            },
+            {
+                "date": "2025-02-23T18:05:32.227660",
+                "items": [
+                    {
+                        "item": "Cucumber",
+                        "price": 790.0,
+                        "quantity": 3,
+                        "category": "Food",
+                        "value_score": 98.75
+                    },
+                    {
+                        "item": "Perfume",
+                        "price": 133.0,
+                        "quantity": 2,
+                        "category": "Household",
+                        "value_score": 19.0
+                    }
+                ],
+                "total": 2491.02,
+                "currency": "\u20b9"
+            },
+            {
+                "date": "2025-02-23T18:07:31.622770",
+                "items": [
+                    {
+                        "item": "Biscuit",
+                        "price": 123.0,
+                        "quantity": 3,
+                        "category": "Electronics"
+                    }
+                ],
+                "total": 387.45,
+                "currency": "\u20b9"
+            },
+            {
+                "date": "2025-02-23T18:13:07.741261",
+                "items": [
+                    {
+                        "item": "Rubber",
+                        "price": 123.0,
+                        "quantity": 3,
+                        "category": "Other",
+                        "value_score": 20.5
+                    }
+                ],
+                "total": 387.45,
+                "currency": "\u20b9"
+            }
+        ],
+        "address": "Address not provided"
+    },
+    "Lambar": {
+        "password": "$2b$12$WZYr8iLZlsE8tuc6Q2kpTulq9//L8dMWFP1zKvkTzeVOWULHMF4B6",
+        "email": "Hi@gmail.com",
+        "created_at": "2025-03-26T11:02:14.337043",
+        "order_history": [
+            {
+                "date": "2025-03-26T11:09:34.819661",
+                "items": [
+                    {
+                        "item": "Banana",
+                        "price": 120.0,
+                        "quantity": 5,
+                        "category": "Food"
+                    }
+                ],
+                "total": 630.0,
+                "currency": "\u20b9"
+            },
+            {
+                "date": "2025-03-26T13:50:39.356062",
+                "items": [
+                    {
+                        "item": "French Fries",
+                        "price": 99,
+                        "quantity": 1,
+                        "veg": true
+                    },
+                    {
+                        "item": "Veggie Burger",
+                        "price": 229,
+                        "quantity": 3,
+                        "veg": true
+                    }
+                ],
+                "total": 836,
+                "currency": "\u20b9",
+                "restaurant_id": "3",
+                "status": "Order Placed",
+                "order_id": "5109c54afd964f61"
+            }
+        ],
+        "address": "Address not provided"
+    },
+    "Lambar2": {
+        "password": "$2b$12$u94Mo6SvxRUk85NbjMN6z.FNy71gUFTvEhKBmtP7Vs2BmkFlZ7KxS",
+        "email": "qwerty123@gmail.com",
+        "created_at": "2025-03-26T11:43:57.641604",
+        "order_history": [],
+        "address": "Address not provided"
+    }
+}
